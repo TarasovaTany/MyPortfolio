@@ -6,7 +6,7 @@
 Java-разработчик
 ***
 
-<u>**Hard-skills:**</u>
+<u>Hard-skills:</u>
 
 - Agile
 - Git
@@ -23,7 +23,7 @@ Java-разработчик
 - Основы Java
 - Основы ООП
 
-<u>**Soft-skills:**</u>
+<u>Soft-skills:</u>
 
 - Честность
 - Аналитический склад ума
